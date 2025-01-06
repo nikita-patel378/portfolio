@@ -1,0 +1,9 @@
+/* Change the background color and text color for the header area */
+.site-header {
+    background-color: #b4beed !important;
+}
+
+.site-title {
+    color: #000080 !important;
+}
+
