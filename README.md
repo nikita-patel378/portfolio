@@ -4,7 +4,7 @@
 **Medium:** [medium.com/@nikitathenerd](https://medium.com/@nikitathenerd)  
 **GitHub:** [github.com/nikita-patel378](https://github.com/nikita-patel378)  
 
-### Data Professional passionate about graph databases and information retrieval.
+### Data Professional passionate about graph databases, natural language processing, and llms.
 
 ---
 
