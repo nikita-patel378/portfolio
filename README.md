@@ -1,7 +1,6 @@
 # Nikita (Niki) Patel
 
 **LinkedIn:** [linkedin.com/in/nikitathenerd](https://linkedin.com/in/nikitathenerd)  
-**Medium:** [medium.com/@nikitathenerd](https://medium.com/@nikitathenerd)  
 **GitHub:** [github.com/nikita-patel378](https://github.com/nikita-patel378)  
 
 ### Data Professional passionate about graph databases, natural language processing, and llms.
@@ -71,7 +70,7 @@
 - Built a text classification model to analyze Keanu Reeves' characters based on movie plot summaries.  
 - Utilized spaCy’s LLM model and standard text classification techniques to assign one or more of six traits to each character: Badass, Adventurous, Unapologetic, Romantic, Free-Spirited, and Relentless.  
 - Cleaned and filtered data using plot summaries from the TMDB API, removing irrelevant entries like documentaries or summaries lacking a clear reference to Keanu Reeves' character.  
-- Highlighted the use of NLP techniques to gain insights into character archetypes and thematic trends.  
+- Highlighted the use of NLP techniques to gain insights into character traits.  
 
 ---
 
