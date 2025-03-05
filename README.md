@@ -2,6 +2,7 @@
 
 **LinkedIn:** [linkedin.com/in/nikitathenerd](https://linkedin.com/in/nikitathenerd)  
 **GitHub:** [github.com/nikita-patel378](https://github.com/nikita-patel378)  
+**Substack:** [substack.com/@nikitathenerd](https://substack.com/@nikitathenerd)
 
 ### Data Professional passionate about graph databases, natural language processing, and llms.
 
