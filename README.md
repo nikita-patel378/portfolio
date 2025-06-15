@@ -59,19 +59,20 @@
 ## Projects
 
 ### [Coffee Recommendation Knowledge Graph](https://github.com/nikita-patel378/caffeinatedgraph)
-- Developed a knowledge graph to identify similarities between coffee blends and support personalized recommendations.  
-- Utilized Neo4j, Selenium for web scraping, and GraphRAG for data insights.  
-- Demonstrated how graph databases can enhance customer experience and decision-making.  
-
-### [Shoe Mileage Tracker](https://github.com/nikita-patel378/shoedataintoneo4j)
-- Migrated activity data from PostgreSQL to Neo4j to evaluate graph databases for tracking multi-dog activities and shoe mileage.  
-- Gained insights into the suitability of graph databases versus relational databases for specific use cases.  
+Python, Neo4j, LangChain, Selenium
+Built a recommendation system for coffee blends based on roast level, tasting notes, and origin to help users discover similar blends.
+Used Selenium to scrape product data and populate the graph
+Designed a knowledge graph in Neo4j to model relationships between coffee characteristics
+Enabled personalized, natural language queries for flavor-driven recommendations
+Implemented a conversational interface using LangChain and Retrieval-Augmented Generation (RAG)
+ 
 
 ### [Text Classification for Keanu Reeves' Character Traits Using spaCy](https://github.com/nikita-patel378/keanutraitclassification)
-- Built a text classification model to analyze Keanu Reeves' characters based on movie plot summaries.  
-- Utilized spaCy’s LLM model and standard text classification techniques to assign one or more of six traits to each character: Badass, Adventurous, Unapologetic, Romantic, Free-Spirited, and Relentless.  
-- Cleaned and filtered data using plot summaries from the TMDB API, removing irrelevant entries like documentaries or summaries lacking a clear reference to Keanu Reeves' character.  
-- Highlighted the use of NLP techniques to gain insights into character traits.  
+Python, SpaCy
+Built a text classification pipeline to analyze Keanu Reeves’ movie characters across custom personality traits: Adventurous, Badass, Romantic, Free-Spirited, Relentless, and Unapologetic.
+Used SpaCy-LLM with prompt-based zero-shot inference to classify traits from movie plot summaries
+Demonstrated creative NLP applications by extracting subjective traits from narrative descriptions
+
 
 ---
 
