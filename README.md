@@ -60,18 +60,19 @@
 
 ### [Coffee Recommendation Knowledge Graph](https://github.com/nikita-patel378/caffeinatedgraph)
 Python, Neo4j, LangChain, Selenium
-Built a recommendation system for coffee blends based on roast level, tasting notes, and origin to help users discover similar blends.
-Used Selenium to scrape product data and populate the graph
-Designed a knowledge graph in Neo4j to model relationships between coffee characteristics
-Enabled personalized, natural language queries for flavor-driven recommendations
-Implemented a conversational interface using LangChain and Retrieval-Augmented Generation (RAG)
+- Built a recommendation system for coffee blends based on roast level, tasting notes, and origin to help users discover similar blends.
+- Used Selenium to scrape product data and populate the graph
+- Designed a knowledge graph in Neo4j to model relationships between coffee characteristics
+- Enabled personalized, natural language queries for flavor-driven recommendations
+- Implemented a conversational interface using LangChain and Retrieval-Augmented Generation (RAG)
  
 
 ### [Text Classification for Keanu Reeves' Character Traits Using spaCy](https://github.com/nikita-patel378/keanutraitclassification)
 Python, SpaCy
-Built a text classification pipeline to analyze Keanu Reeves’ movie characters across custom personality traits: Adventurous, Badass, Romantic, Free-Spirited, Relentless, and Unapologetic.
-Used SpaCy-LLM with prompt-based zero-shot inference to classify traits from movie plot summaries
-Demonstrated creative NLP applications by extracting subjective traits from narrative descriptions
+- Built a text classification pipeline to analyze Keanu Reeves’ movie characters across custom personality traits: Adventurous, Badass, Romantic, Free-Spirited, Relentless, and     
+  Unapologetic.
+- Used SpaCy-LLM with prompt-based zero-shot inference to classify traits from movie plot summaries
+- Demonstrated creative NLP applications by extracting subjective traits from narrative descriptions
 
 
 ---
